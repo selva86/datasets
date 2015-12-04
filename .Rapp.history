@@ -1,0 +1,3 @@
+load("/Users/selvaprabhakaran/Documents/work/datasets/HouseVotes84.rds")
+ls()
+load("/Users/selvaprabhakaran/Documents/work/datasets/HouseVotes84.rds")

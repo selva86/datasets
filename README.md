@@ -7,13 +7,14 @@ http://www.ics.uci.edu/~mlearn/MLRepository.html
 http://kdd.ics.uci.edu
 http://www.liacs.nl/~putten/library/cc2000/ (ticdata)
 
-BreastCancer.csv
-GermanCredit.csv
-HouseVotes84.csv
-Ionosphere.csv
-musk.csv
-PimaIndiansDiabetes.csv
-promotergene.csv 
-Sonar.csv
-spam.csv
-ticdata.csv
+# Binary Class
+1. BreastCancer.csv
+2. GermanCredit.csv
+3. HouseVotes84.csv
+4. Ionosphere.csv
+5. musk.csv
+6. PimaIndiansDiabetes.csv
+7. promotergene.csv 
+8. Sonar.csv
+9. spam.csv
+10. ticdata.csv
