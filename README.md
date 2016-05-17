@@ -9,8 +9,8 @@
  - hflights
  
 ### The original source repositories are:
-ftp://ftp.ics.uci.edu/pub/machine-learning-databases
-http://www.ics.uci.edu/~mlearn/MLRepository.html
-http://kdd.ics.uci.edu
-http://www.liacs.nl/~putten/library/cc2000/ (ticdata)
+ - ftp://ftp.ics.uci.edu/pub/machine-learning-databases
+ - http://www.ics.uci.edu/~mlearn/MLRepository.html
+ - http://kdd.ics.uci.edu
+ - http://www.liacs.nl/~putten/library/cc2000/ (ticdata)
 
