@@ -7,6 +7,7 @@
  - car
  - reshape2
  - hflights
+ - ISLR
  
 ### The original source repositories are:
  - ftp://ftp.ics.uci.edu/pub/machine-learning-databases
